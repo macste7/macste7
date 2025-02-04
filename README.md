@@ -10,7 +10,7 @@ Welcome to my GitHub Page! This is a place where I share my projects related to 
 
 ## THM
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/m4CI0.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/m4CI0">PROFILE LINK</a>
 
 
 
